@@ -8,7 +8,7 @@
   <img src="assets/generated/portrait.svg" alt="Animated ASCII portrait of Parv Jain" width="460">
 </p>
 
-> <samp>Software engineer building AI-powered automation at e-tailize. Fourth-year CSE student at Manipal University Jaipur, exploring cybersecurity and shipping practical web apps.</samp>
+> <samp>Software engineer building AI-powered automation at thinQit. Fourth-year CSE student at Manipal University Jaipur, exploring cybersecurity and shipping practical web apps.</samp>
 
 <p align="center">
   <a href="https://parv.space">Website</a> /
