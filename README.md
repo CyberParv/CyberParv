@@ -1,3 +1,5 @@
+<!-- profile-readme: self-generating CyberParv profile -->
+
 <p align="center">
   <img src="assets/generated/header.svg" alt="Parv Jain - CyberParv" width="100%">
 </p>
